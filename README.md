@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am full stack developer in web and moblie development.<br>languages<br>Backend: Ruby on rails, Python, NodeJs<br>frontend: ReactJS, nextjs, <br>Mobile: react Native <br>devoops: AWS, Heroku 
+Hi there! 👋
+I’m RaNa Arslan, a results-driven Software Engineer who loves crafting reliable and high-performance web applications.
+
+💻 Full-stack development enthusiast
+🧠 Strong focus on clean architecture & best practices
+🔐 Experience with secure and scalable systems
+🌱 Constantly exploring new technologies
+
+I believe great software is built with clarity, consistency, and purpose.
 
 
 ## 🌐 Socials:
